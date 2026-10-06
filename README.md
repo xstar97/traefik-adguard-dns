@@ -81,7 +81,7 @@ The container supports:
 
 ```bash
 docker exec traefik-adguard-dns \
-  python /app/main.py --healthcheck
+  python /app/adguard_dns.py --healthcheck
 ```
 
 The healthcheck verifies connectivity to both the Traefik API and AdGuard Home.
