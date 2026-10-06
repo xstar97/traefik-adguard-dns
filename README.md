@@ -1,0 +1,1 @@
+# traefik-adguard-dns
