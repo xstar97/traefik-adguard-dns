@@ -2,6 +2,14 @@
 
 Automatically synchronizes Traefik HTTP router hosts to AdGuard Home DNS rewrites.
 
+## Warning disclosure
+
+AI-GENERATED PROJECT — PERSONAL USE ONLY
+
+This project was written entirely by AI and developed for my personal use. It is provided as-is, without any guarantees of correctness, reliability, security, or suitability for your environment.
+
+Feel free to use, modify, and adapt it for your own needs. Bug reports, issues, and suggestions are welcome, but they will be reviewed and addressed on a best-effort basis. There are no guarantees that issues will be fixed or that support will be provided.
+
 ## Docker image
 
 Published to:
